@@ -1,4 +1,4 @@
-cd /root/a1441578177/pubg4.4/
+cd /root/1152520856/Saoleida666/
 read -p "请输入内网ip： " ip
 forever start index.js sniff eth0 $ip | pino
 echo "启动完成"
